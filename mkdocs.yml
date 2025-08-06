@@ -1,5 +1,5 @@
-site_name: Project Name
-repo_url: https://github.com/USERNAME/REPO
+site_name: DnD Stories
+repo_url: https://github.com/Jtachan/DnD-Stories
 
 nav:
   - Home: 'index.md'
