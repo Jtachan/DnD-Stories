@@ -6,12 +6,18 @@ En este documento se entiende como "artefacto" un objeto raro de encontrar.
 Es decir, puede que el objeto sea raro por contener un conjuro o por tener un mecanismo complicado.
 Por ejemplo, un mechero sería considerado artefacto (aunque no tenga magia). 
 
-## El flautín del Galán
+--- 
+## El flautín del Zagal
 
 Flautín de caña que no parece especial a simple vista.
-Dice la leyenda que pertenecía al galán de Aeritrea.
-Una inspección rápida 
+Dice la leyenda que pertenecía al zagal de _Aeritide_.
 
+El flautín proporciona el estado de “bendición del hada”, el cual impide que el sujeto reciba una consecuencia directa de un evento desafortunado. Por ejemplo, si un carro de caballos pasa corriendo sobre un charco de agua, el agua no caerá sobre el portador de la flauta. Este estado no afecta a los acompañantes del portador (ni, aunque se encuentren en contacto).
+
+Al tocarlo, el flautín permite usar el conjuro _calmar emociones_.
+El conjuro sólamente tiene efecto mientras el flautín suene.
+
+---
 ## Libro: Cocina del monstruo #1 - Cavernas deliciosas
 
 Libro de recetas usando monstruos como ingredientes.
