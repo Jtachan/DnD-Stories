@@ -2,7 +2,11 @@ site_name: DnD Stories
 repo_url: https://github.com/Jtachan/DnD-Stories
 
 nav:
-  - Home: 'index.md'
+  - Home: index.md
+  - Artefactos: "assets/artefactos.md"
+  - Un nuevo mundo:
+      - About: "un_nuevo_mundo/main.md"
+      - Cap 0: un_nuevo_mundo/cap_0.md
 
 theme:
   name: material
