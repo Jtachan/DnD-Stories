@@ -3,6 +3,9 @@ repo_url: https://codeberg.org/Jtachan/DnD-Stories
 
 nav:
   - Home: index.md
+  - Artefactos: artefactos/index.md
+  - Libros:
+      - Cocina del monstruo: libros/CdM/index.md
 
 theme:
   name: material
