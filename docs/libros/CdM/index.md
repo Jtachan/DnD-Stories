@@ -4,8 +4,6 @@ La serie de libros de _**Cocina del monstruo**_ proporcionan una alternativa a l
 Se dice que estas recetas también proporcionan ciertas habilidades de los monstruos que las componen.
 
 > La idea del libro está inspirada en el manga de _'Dungeon Meshi'_, también conocida como _'Tragones y mazmorras'_ en español o _'Delicious in Dungeon'_ en inglés.
- 
-[TOC]
 
 ## Libro #1 - Cavernas deliciosas
 

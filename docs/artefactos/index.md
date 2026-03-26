@@ -2,8 +2,6 @@
 
 Artefactos generales que pueden ser reducidos a una simple ficha.
 
-[TOC]
-
 ## El flautín del Zagal
 
 Flautín de caña que no parece especial a simple vista. Dice la leyenda que pertenecía al Zagal de Aeritide.

@@ -1,9 +1,10 @@
 site_name: DnD Stories
-repo_url: https://codeberg.org/Jtachan/DnD-Stories
+repo_url: https://github.com/Jtachan/DnD-Stories
 
 nav:
   - Home: index.md
-  - Artefactos: artefactos/index.md
+  - Artefactos:
+      - Artefactos: artefactos/index.md
   - Libros:
       - Cocina del monstruo: libros/CdM/index.md
 
@@ -26,13 +27,21 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
   features:
+    - announce.dismiss
+    - content.tooltips
     - content.code.annotate
     - content.code.copy
     - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
     - navigation.footer
+    - navigation.indexes
     - navigation.sections
     - search.suggest
     - search.highlight
+    - toc.follow
+
 markdown_extensions:
   # some selected markdown extensions
   # feel free to add more
