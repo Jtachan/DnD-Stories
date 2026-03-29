@@ -7,6 +7,10 @@ nav:
       - Artefactos: artefactos/index.md
   - Libros:
       - Cocina del monstruo: libros/CdM/index.md
+  - Partidas:
+      - Hero-Land:
+          - Intro: partidas/hero-land/index.md
+          - Primera misión: partidas/hero-land/cap1.md
 
 theme:
   name: material
